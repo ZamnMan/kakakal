@@ -1,4 +1,4 @@
--- Krystal Dance V3, Made by Hemi (es muy janky) n
+-- Krystal Dance V3, Made by Hemi (es muy janky) 
 if not isfolder("Dances") then 
     makefolder("Dances")
     end
